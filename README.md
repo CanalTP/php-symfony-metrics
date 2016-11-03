@@ -5,7 +5,11 @@ The metrics are based upon Phpunit
 
 ## Pre-requisites
 
-
+- JQ
+- BC
+- PHP
+- GIT
+- composer
 
 ## Utilisation
 ```

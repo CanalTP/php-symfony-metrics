@@ -1,0 +1,14 @@
+{
+    "organization": "YourGithubOrganization",
+    "projects":
+    [
+      {
+        "name": "YourProjectName1",
+        "exec": "vendor/bin/phpunit -c ."
+      },
+      {
+        "name": "YourProjectName2",
+        "exec": "bin/phpunit -c app/"
+      }
+    ]
+}
